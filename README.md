@@ -25,11 +25,12 @@ Components Used:
 - Installed Wazuh Manager on Ubuntu and configured it to receive logs from agents
 - Deployed Wazuh Agent on Windows endpoint
 - Configured Sysmon to capture process creation, network connections, and DNS events
-- Validated log forwarding and monitored events in Wazuh dashboard
+- Validated log forwarding and monitored events in the Wazuh dashboard
 - Used Wireshark to inspect network traffic and verify event triggers
 
 ### Future Enhancements
-- Integrate Suricata IDS for network intrusion detection
+- Integrate Elastic Stack (Elasticsearch + Kibana) for advanced log visualization and dashboarding
+- Incorporate Suricata IDS for deeper network intrusion detection
 - Expand log analysis and alert investigation workflows
 - Add automation scripts for alert triage and reporting
 
