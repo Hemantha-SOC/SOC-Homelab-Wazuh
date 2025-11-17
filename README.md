@@ -28,11 +28,6 @@ Components Used:
 - Validated log forwarding and monitored events in the Wazuh dashboard
 - Used Wireshark to inspect network traffic and verify event triggers
 
-### Future Enhancements
-- Integrate Elastic Stack (Elasticsearch + Kibana) for advanced log visualization and dashboarding
-- Incorporate Suricata IDS for deeper network intrusion detection
-- Expand log analysis and alert investigation workflows
-- Add automation scripts for alert triage and reporting
 
 ### Tools Used
 SIEM-Wazuh, Endpoint Monitoring- Sysmon, Packet Capture- Wireshark, OS- Windows 11, Linux, Ubuntu, VM- VM pro workstation17, Scripting -Bash.
